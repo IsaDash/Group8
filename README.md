@@ -9,7 +9,7 @@ Group Name: TEAM_NAME
 
 **Project Description**: 
 
-**What problem is your project trying to solve? **:
+**What problem is your project trying to solve?**:
 
 With vaccine distribution happening, it can be difficult to stay informed in a similar manner to the number of COVID-19 cases. There are many different sources providing information on when someone can receive the vaccine, how spread apart the doses are, locations where patients can receive the vaccine, and more general statistics such as the number of vaccines given in a local city or the number of days left until herd immunity. We are trying to solve these issues by providing all of this information about covid and vaccinations to the general public in a simple web app.
 
