@@ -1,5 +1,6 @@
 # Group 8
-Group Name: TEAM_NAME
+Group Name: Group 8
+- Jack Dayan
 
 [MVP Link](https://docs.google.com/document/d/1Pl1Ntcu1CfZBqJFoewdGW7A20o4NCsTVkdUozTGaF-4/edit?usp=sharing)
 
