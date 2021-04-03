@@ -1,4 +1,5 @@
 # Build instructions
+Make sure you have installed Node, npm, and flask.
 
 ## Frontend
 
