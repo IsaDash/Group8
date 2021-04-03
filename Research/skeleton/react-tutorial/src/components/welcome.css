@@ -1,0 +1,27 @@
+.welcome {
+    background-color: white;
+    /* background-image: url(/seattle1.jpeg);  */
+    background-repeat: no-repeat;
+    background-position: left;
+
+    min-height: 30vh;
+    display: flex; 
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    padding-top: 10%;
+  }
+
+  .container {
+    margin-right: 15%;
+    margin-left: 15%; 
+    
+}
+
+  .header-text {
+    text-align: left;
+    font-size: xxx-large;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    color: black;
+  }
