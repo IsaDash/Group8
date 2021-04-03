@@ -1,12 +1,12 @@
-#Build instructions
+# Build instructions
 
-##Frontend
+## Frontend
 
 open a terminal and navigate into the ```/react-tutorial``` folder.
 run the command ```npm start```
 navigate to http://localhost:3000 in your browser
 
-##Backend
+## Backend
 open another terminal and navigate into the ```/backend-tutorial``` folder.
 run the command ```flask run```
 
